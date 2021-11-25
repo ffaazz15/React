@@ -1,0 +1,10 @@
+//23-11-21
+
+const myUpdateMap =[1,2,3,4,5].map((element)=>element);
+myUpdateMap
+
+const myUpdateMap=[1,2,3,4,5].map(element)=>element+1);
+myUpdateMap
+
+const myArr = [1,2,3,4,5].map((element,index)=>element+index);
+myArr
